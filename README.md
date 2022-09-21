@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MukulNarwani
-- 👀 I’m interested in Data Science and Machine Learning technologies
-- 🌱 I’m currently a physics student with a minor in CS and Math
-- 📫 How to reach me: my email is narwani.m@northeastern.edu
+- 👀 Interested in Data Science and Machine Learning applications
+- 🌱 Graduated @NortheasternUniversity majoring in Physics with a minor in CS and Maths
+- 📫 How to reach me: my email is narwanimukul103@gmail.com
 
 <!---
 MukulNarwani/MukulNarwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
