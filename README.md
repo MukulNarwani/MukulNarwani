@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MukulNarwani
 - 👀 Interested in Data Science and Machine Learning applications
 - 🌱 Graduated @NortheasternUniversity majoring in Physics with a minor in CS and Maths
+- Currently working as a Data scientist at Harvard Medical School, Lee lab
 - 📫 How to reach me: my email is narwanimukul103@gmail.com
 
 <!---
